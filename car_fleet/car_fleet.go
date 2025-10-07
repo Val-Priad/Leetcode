@@ -1,4 +1,4 @@
-package main
+package car_fleet
 
 import (
 	"fmt"

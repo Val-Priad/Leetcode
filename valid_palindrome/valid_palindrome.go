@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/valid-palindrome/
 
-package main
+package valid_palindrome
 
 import (
 	"unicode"
